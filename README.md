@@ -21,7 +21,7 @@ patch -p1 < patch/0001.hiopenais_build.patch
 patch -p1 < patch/0002.hiopenais_src.patch 
 ```
 
-* 步骤2：进入code/hiopenais/build/目录下，执行下面的命令，重新编译hiopenais。
+* 步骤5：进入code/hiopenais/build/目录下，执行下面的命令，重新编译hiopenais。
 
 ```
 make rebuild && make plugs_rebuild && make boards_rebuild
