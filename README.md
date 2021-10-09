@@ -2,6 +2,9 @@
 #### 基于YOLOV3的火焰监测
 hispark主要是海思嵌入式大赛的相关参赛代码，
 
+### 代码地址
+https://gitee.com/panlizhi/hispark
+
 其中：
 
 Taurus目录：是性别分类的相关AI插件代码补丁，以及一个训练好的性别分类的wk模型
